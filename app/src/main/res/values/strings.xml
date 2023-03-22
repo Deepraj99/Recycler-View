@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Recycler  View</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_mobile">Enter mobile</string>
+    <string name="done">Done</string>
+    <string name="enter_details">Enter details</string>
+</resources>
